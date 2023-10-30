@@ -1,4 +1,8 @@
 ### Hi there 👋
+  <img
+    src="https://media.licdn.com/dms/image/D4D16AQHZKZ4qcvaQPA/profile-displaybackgroundimage-shrink_350_1400/0/1695934241758?e=1704326400&v=beta&t=YpZo6NAre3W0EbfYcPOTS7uKFSXzjg1FQZOd4ftqUSA"
+    alt="Imagen de mi setup"
+  />
 
 <!--
 **nathalyconforme/nathalyconforme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
