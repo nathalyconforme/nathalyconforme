@@ -1,15 +1,18 @@
-### Hola, me llamo Nathaly👋
-#### Junior Frontend Developer
-  <img
+## Hola, me llamo Nathaly👋
+### Junior Frontend Developer
+  
+Soy graduada en Grado Superior de Desarrollo de Aplicaciones Web, con el que he adquirido habilidades en lenguajes de programación (como Javascript, PHP, Java), desarrollo de aplicaciones y diseño web. También tengo conocimientos de HTML5 y CSS3. 
+- 🎸​ Actualmente, trabajo parcialmente, en eventos musicales en directo. El mundo de los conciertos, me apasiona mucho, sin embargo, mi objetivo es poder formar parte del mundo del desarrollo y la tecnología.
+- 👩‍💻 Ahora mismo estoy aprendiendo VUE JS (Vue3), Firebase y estoy practicando en mis proyectos con un poco de SASS.
+- ⚡ Fun fact: Disfruto mucho los conciertos y la música 🎶🥁, los videojuegos siempre han estado en mi vida desde que soy pequeña 🥰​
+
+Me hace ilusión compartir una imagen del lugar donde paso horas y horas..​.🎮🖥️
+<img
     src="MI SETUP.jpg"
     alt="Imagen de mi setup"
   />
-Soy graduada en Grado Superior de Desarrollo de Aplicaciones Web, con el que he adquirido habilidades en lenguajes de programación (como Javascript, PHP, Java), desarrollo de aplicaciones y diseño web. También tengo conocimientos de HTML5 y CSS3. 
-- 🔭 Actualmente, trabajo parcialmente, en eventos musicales en directo. El mundo de los conciertos, me apasiona mucho, sin embargo, mi objetivo es poder formar parte del mundo del desarrollo y la tecnología.
-- 🌱 Ahora mismo estoy aprendiendo VUE JS (Vue3), Firebase y estoy practicando en mis proyectos con un poco de SASS.
-- ⚡ Fun fact: Disfruto mucho los conciertos y la música, los videojuegos siempre han estado en mi vida desde que soy pequeña 😄
 
-## Tecnologías:
+### Tecnologías
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -22,9 +25,8 @@ Soy graduada en Grado Superior de Desarrollo de Aplicaciones Web, con el que he 
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-## 
 
-## Contacto
+### Contacto
 [![Email](https://img.shields.io/badge/natcodev@gmail.com-correo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natcodev@gmail.com)
 
 <!--
