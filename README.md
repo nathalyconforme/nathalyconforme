@@ -1,5 +1,5 @@
 ## Hola, me llamo Nathaly👋
-### Junior Frontend Developer
+### Junior Web Developer
   
 Soy graduada en Grado Superior de Desarrollo de Aplicaciones Web, con el que he adquirido habilidades en lenguajes de programación (como Javascript, PHP, Java), desarrollo de aplicaciones y diseño web. También tengo conocimientos de HTML5 y CSS3. 
 - 🎸​ Actualmente, trabajo parcialmente, en eventos musicales en directo. El mundo de los conciertos, me apasiona mucho, sin embargo, mi objetivo es poder formar parte del mundo del desarrollo y la tecnología.
